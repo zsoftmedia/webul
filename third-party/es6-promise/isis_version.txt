@@ -1,0 +1,5 @@
+Name: ES6-Promise (subset of rsvp.js)
+Version: 4.2.4
+Download: https://github.com/stefanpenner/es6-promise
+Documentation: https://github.com/stefanpenner/es6-promise
+License: MIT

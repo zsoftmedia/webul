@@ -1,0 +1,5 @@
+Name: jQueryJavaScript library
+Version: 3.3.1
+Download: https://jquery.com/download/
+Documentation: http://api.jquery.com/
+License: MIT

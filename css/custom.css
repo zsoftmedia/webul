@@ -1,0 +1,70 @@
+.box {
+    width: 90%;
+    content: "";
+    display: table;
+    clear: both;
+    background-color: rgb(252, 243, 243);
+    margin: auto;
+}
+
+.box .jsonBox {
+    float: left;
+    width: 20.33%;
+}
+
+.box h1 {
+    text-align: center;
+    margin: 30px;
+    background-color: blanchedalmond;
+}
+
+.jsonBox ul {
+    position: relative;
+    list-style: none;
+    left: 1.5%;
+    top: 5%;
+    top: -9%;
+}
+
+.jsonBox ul li.selected {
+    text-align: center;
+    background-color: rgb(100, 69, 58);
+    color: #ffffff;
+}
+
+.jsonBox ul li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 60px;
+    margin: 1.5px auto;
+    background-color: coral;
+    cursor: pointer;
+}
+
+.box .boxKnockout {
+    float: left;
+    margin: 10px;
+    width: 50.33%;
+}
+
+@media only screen and (max-width: 1200px) {
+    .box .jsonBox {
+        width: 100%;
+        margin: 10px auto;
+        float: left;
+    }
+    .box .boxKnockout {
+        width: 100%;
+        margin: 10px auto;
+    }
+    .jsonBox {
+        margin: 10px auto;
+    }
+    .box .boxKnockout {
+        background-color: blanchedalmond;
+        padding: 5px;
+        width: fit-content;
+    }
+}

@@ -1,0 +1,5 @@
+Name: Redux Thunk JavaScript library
+Version: 2.3.0
+Download: https://github.com/reduxjs/redux-thunk/tree/v2.3.0
+Documentation: https://github.com/reduxjs/redux-thunk
+License: MIT

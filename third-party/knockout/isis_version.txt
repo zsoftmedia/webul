@@ -1,0 +1,6 @@
+Name: Knockout
+Version: 3.5.0
+Download: http://knockoutjs.com/downloads/index.html
+Documentation: http://knockoutjs.com/documentation/introduction.html
+License: MIT
+Remarks:

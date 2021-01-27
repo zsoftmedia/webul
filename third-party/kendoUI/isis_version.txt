@@ -1,0 +1,7 @@
+Name: Telerik Kendo UI Core - Kendo UI for jQuery
+Version: Kendo UI R3 2019 (v2019.3.1023)
+Download: https://www.telerik.com/kendo-ui/open-source-core
+Documentation: https://docs.telerik.com/kendo-ui/introduction
+Demo: http://demos.telerik.com/kendo-ui/
+License: Apache v2
+Notes: src directory not included - get from link above if necessary

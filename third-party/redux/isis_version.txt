@@ -1,0 +1,5 @@
+Name: Redux JavaScript library
+Version: 4.0.0
+Download: https://github.com/reduxjs/redux/tree/v4.0.0
+Documentation: https://redux.js.org/
+License: MIT
